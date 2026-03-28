@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS metadata
+.DS_Store
+
+# Debug message cache (contains large base64-encoded screenshots, ~94 MB)
+draft/
+
+# Runtime files
+interactive_position_workflow/.server.log
+interactive_position_workflow/.server.pid
+
+# Large video recording
+interactive_position_workflow/recording_*.mp4

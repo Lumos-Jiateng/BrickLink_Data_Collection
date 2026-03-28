@@ -1,0 +1,12 @@
+# Ignore everything in this directory by default
+/*
+
+# Keep this gitignore itself
+!.gitignore
+
+# Only track these two project folders
+!/BrickLink/
+!/Mac_Cua_Framework/
+
+# macOS metadata everywhere
+.DS_Store
